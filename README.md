@@ -1,0 +1,2 @@
+# VanityMC
+VanityMC Website (beta)
